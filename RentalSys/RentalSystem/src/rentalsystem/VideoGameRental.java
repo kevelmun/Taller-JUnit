@@ -1,6 +1,14 @@
-package com.espol.rentalsystemtest;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package rentalsystem;
 
-
+/**
+ *
+ * @author USER
+ */
 public class VideoGameRental {
     private Object _videoGame;
     private int _daysRented;
