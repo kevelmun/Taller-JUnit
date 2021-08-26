@@ -78,4 +78,12 @@ class Customer {
                 + " frequent renter points";
         return result;
     }
+    //Metodos get Implementados para probar los metodos addMovieRental y addVideoGameRental
+    public ArrayList<MovieRental> get_movieRentals() {
+    	return this._movieRentals;
+    	
+    }
+    public ArrayList<VideoGameRental> get_videoGameRental() {
+    	return this._videoGameRental;
+    }
 }
