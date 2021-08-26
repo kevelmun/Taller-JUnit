@@ -1,16 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package rentalsystem;
 
-/**
- *
- * @author USER
- */
+
 public class Xbox360Game {
-    private static final double CONSOLE_COST = 249.99 ;
+	private static final double CONSOLE_COST = 249.99 ;
 	private static final double CONSOLE_RENTAL_COST = 29.99 ;
 	private static final int NUM_DAYS_BASE_PRICE = 3;
 	private static final double BASE_PRICE = 3.5;

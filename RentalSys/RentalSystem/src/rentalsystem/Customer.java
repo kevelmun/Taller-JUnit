@@ -1,18 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package rentalsystem;
 
-import java.util.ArrayList;
-import java.util.Iterator;
+import java.util.*;
 
-/**
- *
- * @author USER
- */
-public class Customer {
+class Customer {
+
     public String _name;
     private final ArrayList<MovieRental> _movieRentals;
     private final ArrayList<VideoGameRental> _videoGameRental; 
